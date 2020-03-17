@@ -1,6 +1,6 @@
 # FoodBot
 
-A Raspbery Pi microprocessor was implemented with a machine learning model utilising Convolutional Neural Networks to classify a set of food products and use the outputs in a range of practical functionalities, such as keeping track of inventory.
+A Raspbery Pi microprocessor was implemented with a machine learning Convolutional Neural Network model utilising Computer Vision to classify a set of food products and use the outputs in a range of practical functionalities, such as keeping track of inventory.
 
 List and content of files:
 
