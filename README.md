@@ -37,6 +37,5 @@ and submit with 'Enter'.
 
 Note: The training/validation datasets are not included because they are very large files, so if the
 notebook (file 1) is re-run it might output a 'No such file in directory.' error. However, the
-scrips are very general (see Report), so changing the 'data_path' variable at the top to a path containing
-folders with images is sufficient to run (and re-train) the model. The notebook is submitted in a fully run
-format.
+scrips are very general, so changing the 'data_path' variable at the top to a path containing
+folders with images is sufficient to run (and re-train) the model. 
